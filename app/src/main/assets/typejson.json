@@ -1,0 +1,129 @@
+{
+  "code": 200,
+  "msg": "请求成功",
+  "result": [
+    {
+      "product_id": "3",
+      "channel_id": "0",
+      "brand_id": "小裙子",
+      "p_catalog_id": "http://imgsrc.baidu.com/imgad/p_catalog_id/item/b3b7d0a20cf431ada2d488144036acaf2edd989d.jpg",
+      "is_deleted": "0",
+      "child": [
+        {
+          "product_id": "10",
+          "channel_id": "3",
+          "brand_id": "古风",
+          "p_catalog_id": "http://imgsrc.baidu.com/imgad/pic/item/b3b7d0a20cf431ada2d488144036acaf2edd989d.jpg",
+          "is_deleted": "0"
+        },
+        {
+          "product_id": "11",
+          "channel_id": "3",
+          "brand_id": "和风",
+          "p_catalog_id": "http://imgsrc.baidu.com/imgad/pic/item/b3b7d0a20cf431ada2d488144036acaf2edd989d.jpg",
+          "is_deleted": "0"
+        },
+        {
+          "product_id": "12",
+          "channel_id": "3",
+          "brand_id": "lolita",
+          "p_catalog_id": "http://imgsrc.baidu.com/imgad/pic/item/b3b7d0a20cf431ada2d488144036acaf2edd989d.jpg",
+          "is_deleted": "0"
+        },
+        {
+          "product_id": "91",
+          "channel_id": "3",
+          "brand_id": "日常",
+          "p_catalog_id": "http://imgsrc.baidu.com/imgad/pic/item/b3b7d0a20cf431ada2d488144036acaf2edd989d.jpg",
+          "is_deleted": "0"
+        }
+      ],
+      "hot_product_list": [
+        {
+          "product_id": "2704",
+          "channel_id": "6",
+          "brand_id": "230",
+          "product_id": "3",
+          "supplier_type": "1",
+          "supplier_code": "0",
+          "brand_id": "中华风lolita -山海经 凤凰图  JSK",
+          "cover_price": "300.00",
+          "brief": "",
+          "figure": "http://imgsrc.baidu.com/imgad/pic/item/b3b7d0a20cf431ada2d488144036acaf2edd989d.jpg",
+          "sell_time_start": "1447171200",
+          "sell_time_end": "1447776000"
+        },
+        {
+          "product_id": "5181",
+          "channel_id": "6",
+          "brand_id": "394",
+          "product_id": "10",
+          "supplier_type": "2",
+          "supplier_code": "1101037",
+          "brand_id": "【画影】汉元素 古风日常—— 仲夏 ",
+          "cover_price": "250.00",
+          "brief": "",
+          "figure": "http://imgsrc.baidu.com/imgad/pic/item/b3b7d0a20cf431ada2d488144036acaf2edd989d.jpg",
+          "sell_time_start": "1457452800",
+          "sell_time_end": "1458057600"
+        },
+        {
+          "product_id": "3571",
+          "channel_id": "8",
+          "brand_id": "259",
+          "product_id": "12",
+          "supplier_type": "2",
+          "supplier_code": "1801005",
+          "brand_id": "【INFANTA.婴梵塔】学院风尖领外套/大衣",
+          "cover_price": "287.00",
+          "brief": "",
+          "figure": "http://imgsrc.baidu.com/imgad/pic/item/b3b7d0a20cf431ada2d488144036acaf2edd989d.jpg",
+          "sell_time_start": "1450368000",
+          "sell_time_end": "1450972800"
+        },
+        {
+          "product_id": "7729",
+          "channel_id": "8",
+          "brand_id": "432",
+          "product_id": "91",
+          "supplier_type": "2",
+          "supplier_code": "1601008",
+          "brand_id": "现货【TUMO】 雨库洛牌元素 软妹森女系短袖连衣裙",
+          "cover_price": "179.00",
+          "brief": "",
+          "figure": "http://imgsrc.baidu.com/imgad/pic/item/b3b7d0a20cf431ada2d488144036acaf2edd989d.jpg",
+          "sell_time_start": "0",
+          "sell_time_end": "0"
+        },
+        {
+          "product_id": "5383",
+          "channel_id": "3",
+          "brand_id": "77",
+          "product_id": "91",
+          "supplier_type": "2",
+          "supplier_code": "2105003",
+          "brand_id": "【宅漫周边店】猫咪后院 衬衫+背带裙2件套装 超软萌",
+          "cover_price": "149.00",
+          "brief": "",
+          "figure": "http://imgsrc.baidu.com/imgad/pic/item/b3b7d0a20cf431ada2d488144036acaf2edd989d.jpg",
+          "sell_time_start": "1458230400",
+          "sell_time_end": "1458835200"
+        },
+        {
+          "product_id": "589",
+          "channel_id": "8",
+          "brand_id": "266",
+          "product_id": "12",
+          "supplier_type": "2",
+          "supplier_code": "1801001",
+          "brand_id": "定制【Neverland 原创】直发 烫金lolita 人鱼之歌 高腰JSK连衣裙",
+          "cover_price": "458.00",
+          "brief": "45天工期",
+          "figure": "http://imgsrc.baidu.com/imgad/pic/item/b3b7d0a20cf431ada2d488144036acaf2edd989d.jpg",
+          "sell_time_start": "1438704000",
+          "sell_time_end": "1439308800"
+        }
+      ]
+    }
+  ]
+}

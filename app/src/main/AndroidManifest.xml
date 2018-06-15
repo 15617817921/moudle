@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.liu.anew">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- if you want to load images from the internet -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- if you want to load images from a file OR from the internet -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:name=".application.MyApplication"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Base.NoActionBar"
+        tools:ignore="HardcodedDebugMode"
+        tools:replace="android:theme">
+        <activity
+            android:name=".activity.SplashActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Base.NoActionBar.Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.main.MainActivity" />
+        <activity android:name=".activity.main.Main2Activity" />
+        <activity android:name=".activity.GuideActivity" />
+        <activity
+            android:name=".activity.main.Main3Activity"
+            android:theme="@style/BaseAAA.AppTheme" />
+        <activity android:name=".activity.main.Main4Activity" />
+        <activity android:name=".activity.welcome.WelcomeActivity" />
+        <activity android:name=".activity.my.ProfilePracticeActivity" />
+        <activity android:name=".activity.my.SnapHelperActivity" />
+        <activity android:name=".activity.my.PhotoActivity" />
+        <activity android:name=".activity.my.NineActivity" />
+        <activity android:name=".activity.home.MsgAct"></activity>
+    </application>
+
+</manifest>

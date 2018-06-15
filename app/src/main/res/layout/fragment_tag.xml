@@ -1,0 +1,52 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <com.yyydjk.library.DropDownMenu
+    android:id="@+id/dropDownMenu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:ddmenuTextSize="13sp"
+    app:ddtextUnselectedColor="@color/drop_down_unselected"
+    app:ddtextSelectedColor="@color/drop_down_selected"
+    app:dddividerColor="@color/gray"
+    app:ddunderlineColor="@color/gray"
+    app:ddmenuSelectedIcon="@mipmap/drop_down_selected_icon"
+    app:ddmenuUnselectedIcon="@mipmap/drop_down_unselected_icon"
+    app:ddmaskColor="@color/mask_color"
+    app:ddmenuBackgroundColor="@color/white"
+    app:ddmenuMenuHeightPercent="0.5"
+
+    />
+    <!--<LinearLayout-->
+        <!--android:id="@+id/llshow"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:orientation="vertical">-->
+        <!--<TextView-->
+            <!--android:id="@+id/tv_content"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"/>-->
+    <!--</LinearLayout>-->
+    <!--<com.yyydjk.library.DropDownMenu-->
+    <!--android:id="@+id/dropDownMenu"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--app:ddmenuTextSize="13sp" //tab字体大小-->
+    <!--app:ddtextUnselectedColor="@color/drop_down_unselected" //tab未选中颜色-->
+    <!--app:ddtextSelectedColor="@color/drop_down_selected" //tab选中颜色-->
+    <!--app:dddividerColor="@color/gray"    //分割线颜色-->
+    <!--app:ddunderlineColor="@color/gray"  //下划线颜色-->
+    <!--app:ddmenuSelectedIcon="@mipmap/drop_down_selected_icon" //tab选中状态图标-->
+    <!--app:ddmenuUnselectedIcon="@mipmap/drop_down_unselected_icon"//tab未选中状态图标-->
+    <!--app:ddmaskColor="@color/mask_color"     //遮罩颜色，一般是半透明-->
+    <!--app:ddmenuBackgroundColor="@color/white" //tab 背景颜色-->
+    <!--app:ddmenuMenuHeightPercent="0.5" 菜单的最大高度，根据屏幕高度的百分比设置-->
+
+    <!--/>-->
+
+</LinearLayout>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">New</string>
+    <string name="main_first">一页</string>
+    <string name="main_second">二页</string>
+    <string name="main_three">三页</string>
+    <string name="main_four">四页</string>
+    <string name="main_five">五页</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
